@@ -14,7 +14,7 @@
 💖 Conoce más sobre mí y mis proyectos, únete y sé parte de mi comunidad ✨
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACTO+%E2%9C%A8"/>
-<a href="https://discord.gg/qNnHXnWWYQ"><img height="40" src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png"></a>
+
 <a href="https://wa.me/50235585631"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
 <a href="https://youtube.com/@quanthyum"><img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>
 
