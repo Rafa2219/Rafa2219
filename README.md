@@ -7,7 +7,6 @@
 🔹 Desarrollo de Bots para WhatsApp
 🔹 Add-ons para Minecraft Bedrock Edition
 🔹 Investigación y experimentación tecnológica
-🔹 Aprendiendo Python y Kotlin
 
 ---
 
