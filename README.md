@@ -29,7 +29,7 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF1493&center=true&vCenter=true&width=435&height=50&lines=%F0%9F%93%8B+ESTAD%C3%8DSTICAS+%F0%9F%93%8B"/>
 <img src="https://github-stats-alpha.vercel.app/api?username=Rafa2219&cc=000000&tc=FF6B9D&ic=FF1493&bc=1a0a1a" width="450"/>
 <br>
-<img src="https://moe-counter.glitch.me/get/@:Rafa2219?theme=aso" />
+<img src="https://count.getloli.com/get/@:Rafa2219?theme=aso" />
 
 </div>
 
