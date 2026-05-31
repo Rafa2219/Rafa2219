@@ -65,7 +65,7 @@
 
 <br><br>
 
-🤖 Tecnologías favoritas
+Tecnologías favoritas
 
 - Baileys
 - Node.js
@@ -93,8 +93,6 @@
 ---
 
 <div align="center">✨ Gracias por visitar mi perfil ✨
-
-«"Vive el presente sin arrepentirte de nada."»
 
 </div>
 
