@@ -15,7 +15,7 @@
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Barriecito&duration=3000&pause=500&color=FF6B9D&center=true&vCenter=true&width=435&height=50&lines=%E2%9C%A8+CONTACTO+%E2%9C%A8" alt="Typing SVG" /><a href="mailto:contacto.misuki@gmail.com"><img height="40" src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png"></a>
 <a href="https://wa.me/50235585631"><img height="40" src="https://cdn.icon-icons.com/icons2/3132/PNG/512/whatsapp_social_network_communication_message_interaction_icon_192287.png"></a>
-<a href="https://youtube.com/@quanthyumStudios"><img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>
+<a href="https://youtube.com/@quanthyum"><img height="40" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>
 
 <br><br>
 
